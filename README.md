@@ -1,3 +1,7 @@
+# RECOIN !!!!!!!
+
+` BELOW IS THE ORIGINAL INSTRUCTIONS FOR HOW TO SET UP CRYPTONOTE `
+
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
 * Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
@@ -160,7 +164,7 @@ You may choose a letter (in some cases several letters) all the coin's public ad
 
 Example:
 ```
-const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 0xe9; // addresses start with "f"
+const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 0x7710; // addresses start with "f"
 ```
 
 
